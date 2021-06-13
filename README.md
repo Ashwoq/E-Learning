@@ -1,8 +1,8 @@
-## E-Learning
+# E-Learning
 
 As a team(2) we developed a front end webpage for a college project 
 
-# Project
+## Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
 
