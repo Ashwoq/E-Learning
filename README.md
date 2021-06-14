@@ -2,6 +2,10 @@
 
 As a team(2) we developed our 1st front end webpage.
 
+## Deployment
+
+Click here 👉 https://ashwoq.github.io/E-Learning/home
+
 ## Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
